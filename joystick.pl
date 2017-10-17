@@ -1,4 +1,7 @@
 #!/usr/bin/perl
+# Copyright 2017 Don Willingham
+# See LICENSE for 3 clause BSD license
+
 use strict;
 use Linux::Joystick;
 

@@ -1,6 +1,8 @@
 #!/bin/sh
+# Copyright 2017 Don Willingham
+# See LICENSE for 3 clause BSD license
 
-# Kill any existing instanes
+# Kill any existing instances
 sudo killall servod
 
 # Start servod
